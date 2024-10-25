@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** with over 4 years of experience in cra
 - **JavaScript/TypeScript:** jQuery, ES6+, TypeScript
 
 ### 🛠️ Backend & Databases
-- **Backend:** Node.js, Express.js, Flask, Django
+- **Backend:** Nest.js, Express.js, Flask, Django
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **ORM**: TypeORM, Prisma, Drizzle
 - **API Development:** RESTful APIs, GraphQL, Serverless (AWS Lambda, Vercel Functions)
