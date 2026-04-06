@@ -1,12 +1,10 @@
-# 👋 Hey, I’m Solomon!
+# Solomon Momoh
 
-Big fan of **JavaScript/TypeScript**, Following the Rust hype. Always learning, tinkering, and shipping stuff. 🌱  
+Platform & fullstack engineer. I build event infrastructure, internal tools, 
+and developer-facing systems that hold up under real conditions.
 
-## 🌱 Currently Playing With
-- Advanced React patterns & performance tweaks  
-- Rust ...
-- Building a crm like product?? project-boba (not public yet)
-- React Module Fedration, BHvR Stack, Database Driven UI
-- GSAP and Motion animations, cant lie scroll sequences are really cool
+Currently working on a WhatsApp-native uber ride booking agent and an open-source 
+MFB starter kit — fintech infrastructure you can actually fork and ship.
 
-✨ When I’m not coding, I’m reading... (how did i transition from gaming TT), exploring new tech, or pretending to go outdoors. Feel free to reach out if you want to build cool things together! 🚀
+TypeScript everywhere. Bun, Hono, Elysia, Next.js, Tanstack, React Native, Tauri, Docker.
+Obsessed with good abstractions and systems that don't break in production.
