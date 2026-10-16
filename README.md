@@ -20,7 +20,7 @@ Most of my work has been around **TypeScript, React, Node.js, payments, and prod
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,astro,nextjs,nestjs,nodejs,flask,fastapi,django,bun,pnpm,deno,postgres,redis,docker,sentry" alt="TypeScript, React, Next.js, Node.js, Bun, PostgreSQL, Redis, and Docker" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,astro,nextjs,nestjs,nodejs,flask,fastapi,django,tailwind,bun,pnpm,deno,postgres,redis,prisma,docker,sentry,aws,nginx" alt="TypeScript, React, Next.js, Node.js, Bun, PostgreSQL, Redis, and Docker" />
   </a>
 </p>
 
